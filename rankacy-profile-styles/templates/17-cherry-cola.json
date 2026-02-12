@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Cherry Cola",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#FF2E4E",
+    "borderGlow": true,
+    "textColor": "#FFE9ED",
+    "mutedTextColor": "#E6A8B2"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_inferno.webp",
+    "opacity": 0.16,
+    "blendMode": "luminosity"
+  }
+}

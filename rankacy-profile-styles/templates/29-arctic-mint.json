@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Arctic Mint",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#7CFFD6",
+    "borderGlow": true,
+    "textColor": "#ECFFFB",
+    "mutedTextColor": "#B6E6DA"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_vertigo.webp",
+    "opacity": 0.16,
+    "blendMode": "luminosity"
+  }
+}

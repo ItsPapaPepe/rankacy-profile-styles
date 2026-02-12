@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Crimson Heat",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#FF3B5C",
+    "borderGlow": true,
+    "textColor": "#FFECEF",
+    "mutedTextColor": "#F5B8C3"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_inferno.webp",
+    "opacity": 0.16,
+    "blendMode": "luminosity"
+  }
+}

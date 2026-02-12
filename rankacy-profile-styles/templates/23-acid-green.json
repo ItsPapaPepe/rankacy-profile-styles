@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Acid Green",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#3DFF2E",
+    "borderGlow": true,
+    "textColor": "#ECFFEA",
+    "mutedTextColor": "#B5E6A8"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_ancient.webp",
+    "opacity": 0.17,
+    "blendMode": "luminosity"
+  }
+}

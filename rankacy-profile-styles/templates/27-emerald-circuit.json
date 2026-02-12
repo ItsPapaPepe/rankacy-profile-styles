@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Emerald Circuit",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#00FF88",
+    "borderGlow": true,
+    "textColor": "#E9FFF6",
+    "mutedTextColor": "#A8E6C9"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_mirage.webp",
+    "opacity": 0.18,
+    "blendMode": "luminosity"
+  }
+}

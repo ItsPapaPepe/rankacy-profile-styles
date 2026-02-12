@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Deep Space",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#6B7BFF",
+    "borderGlow": true,
+    "textColor": "#EEF1FF",
+    "mutedTextColor": "#B6BCE6"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_nuke.webp",
+    "opacity": 0.14,
+    "blendMode": "luminosity"
+  }
+}

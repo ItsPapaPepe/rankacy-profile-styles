@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Volt Yellow",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#FFE600",
+    "borderGlow": true,
+    "textColor": "#FFFDE6",
+    "mutedTextColor": "#E6DAA8"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_dust2.webp",
+    "opacity": 0.14,
+    "blendMode": "luminosity"
+  }
+}

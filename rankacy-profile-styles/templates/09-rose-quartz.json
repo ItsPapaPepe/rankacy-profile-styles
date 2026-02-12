@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Rose Quartz",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#FF77C8",
+    "borderGlow": true,
+    "textColor": "#FFF0FA",
+    "mutedTextColor": "#E6B8D6"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_mirage.webp",
+    "opacity": 0.15,
+    "blendMode": "luminosity"
+  }
+}

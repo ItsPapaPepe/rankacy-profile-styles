@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Toxic Teal",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#00FFA8",
+    "borderGlow": true,
+    "textColor": "#E9FFF6",
+    "mutedTextColor": "#A8E6D0"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_vertigo.webp",
+    "opacity": 0.17,
+    "blendMode": "luminosity"
+  }
+}

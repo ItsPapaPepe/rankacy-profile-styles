@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Frost Lilac",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#B8A6FF",
+    "borderGlow": true,
+    "textColor": "#F7F3FF",
+    "mutedTextColor": "#D2C8E6"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_vertigo.webp",
+    "opacity": 0.16,
+    "blendMode": "luminosity"
+  }
+}

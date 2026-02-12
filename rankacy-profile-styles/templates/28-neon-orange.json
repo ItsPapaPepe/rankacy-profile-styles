@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Neon Orange",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#FF6B2D",
+    "borderGlow": true,
+    "textColor": "#FFF0E9",
+    "mutedTextColor": "#E6BCA8"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_inferno.webp",
+    "opacity": 0.16,
+    "blendMode": "luminosity"
+  }
+}

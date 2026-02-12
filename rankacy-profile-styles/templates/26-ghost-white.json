@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Ghost White",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#EAEAEA",
+    "borderGlow": true,
+    "textColor": "#FFFFFF",
+    "mutedTextColor": "#C9C9C9"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_dust2.webp",
+    "opacity": 0.1,
+    "blendMode": "luminosity"
+  }
+}

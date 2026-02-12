@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Ocean Night",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#2DD0FF",
+    "borderGlow": true,
+    "textColor": "#E9FBFF",
+    "mutedTextColor": "#A8D3E6"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_overpass.webp",
+    "opacity": 0.16,
+    "blendMode": "luminosity"
+  }
+}

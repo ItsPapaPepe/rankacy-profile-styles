@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Ruby Noir",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#FF476B",
+    "borderGlow": true,
+    "textColor": "#FFEFF3",
+    "mutedTextColor": "#E6B2BE"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_nuke.webp",
+    "opacity": 0.15,
+    "blendMode": "luminosity"
+  }
+}

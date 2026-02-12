@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Olive Tactical",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#A6FF4D",
+    "borderGlow": true,
+    "textColor": "#F5FFE9",
+    "mutedTextColor": "#C7E6A8"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_ancient.webp",
+    "opacity": 0.16,
+    "blendMode": "luminosity"
+  }
+}

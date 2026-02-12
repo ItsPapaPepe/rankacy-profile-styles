@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Plasma Pink",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#FF5BF3",
+    "borderGlow": true,
+    "textColor": "#FFF0FE",
+    "mutedTextColor": "#E6B6E3"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_mirage.webp",
+    "opacity": 0.15,
+    "blendMode": "luminosity"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Matrix Lime",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#B7FF00",
+    "borderGlow": true,
+    "textColor": "#F4FFE6",
+    "mutedTextColor": "#CBE6A8"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_ancient.webp",
+    "opacity": 0.16,
+    "blendMode": "luminosity"
+  }
+}

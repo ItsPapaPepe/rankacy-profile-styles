@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Cyber Violet",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#B36BFF",
+    "borderGlow": true,
+    "textColor": "#F5EEFF",
+    "mutedTextColor": "#C9B6E6"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_nuke.webp",
+    "opacity": 0.16,
+    "blendMode": "luminosity"
+  }
+}

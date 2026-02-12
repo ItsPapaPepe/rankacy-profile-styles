@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Sapphire Edge",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#3B9CFF",
+    "borderGlow": true,
+    "textColor": "#EAF5FF",
+    "mutedTextColor": "#A8C9E6"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_nuke.webp",
+    "opacity": 0.16,
+    "blendMode": "luminosity"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Midnight Blue",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#4C7DFF",
+    "borderGlow": true,
+    "textColor": "#EAF0FF",
+    "mutedTextColor": "#AFC1E6"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_anubis.webp",
+    "opacity": 0.16,
+    "blendMode": "luminosity"
+  }
+}

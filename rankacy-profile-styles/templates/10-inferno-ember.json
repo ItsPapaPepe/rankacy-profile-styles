@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Inferno Ember",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#FF8A2A",
+    "borderGlow": true,
+    "textColor": "#FFF3E9",
+    "mutedTextColor": "#E6C0A8"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_inferno.webp",
+    "opacity": 0.16,
+    "blendMode": "luminosity"
+  }
+}

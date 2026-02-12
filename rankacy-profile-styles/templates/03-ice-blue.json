@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Ice Blue",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#5DE7FF",
+    "borderGlow": true,
+    "textColor": "#ECFBFF",
+    "mutedTextColor": "#A8D7E2"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_vertigo.webp",
+    "opacity": 0.17,
+    "blendMode": "luminosity"
+  }
+}

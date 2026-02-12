@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Electric Cyan",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#00D4FF",
+    "borderGlow": true,
+    "textColor": "#E9FBFF",
+    "mutedTextColor": "#A8D7E6"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_overpass.webp",
+    "opacity": 0.17,
+    "blendMode": "luminosity"
+  }
+}

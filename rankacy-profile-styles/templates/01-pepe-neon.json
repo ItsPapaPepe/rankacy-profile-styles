@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Pepe Neon",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#00FF66",
+    "borderGlow": true,
+    "textColor": "#E9FFF2",
+    "mutedTextColor": "#9FB8A7"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_mirage.webp",
+    "opacity": 0.18,
+    "blendMode": "luminosity"
+  }
+}

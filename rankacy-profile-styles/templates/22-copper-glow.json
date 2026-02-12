@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Copper Glow",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#FFB86B",
+    "borderGlow": true,
+    "textColor": "#FFF3E8",
+    "mutedTextColor": "#E6C7AE"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_overpass.webp",
+    "opacity": 0.15,
+    "blendMode": "luminosity"
+  }
+}

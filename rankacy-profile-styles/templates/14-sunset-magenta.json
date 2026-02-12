@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Sunset Magenta",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#FF4DD8",
+    "borderGlow": true,
+    "textColor": "#FFF0FB",
+    "mutedTextColor": "#E6B6DA"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_anubis.webp",
+    "opacity": 0.15,
+    "blendMode": "luminosity"
+  }
+}

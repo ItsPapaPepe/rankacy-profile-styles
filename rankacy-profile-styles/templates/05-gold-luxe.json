@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "name": "Gold Luxe",
+  "badge": {
+    "enabled": true,
+    "iconUrl": "assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#FFD86B",
+    "borderGlow": true,
+    "textColor": "#FFF9E8",
+    "mutedTextColor": "#E8D9AE"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://rankacy.com/images/background/dashboard/de_dust2.webp",
+    "opacity": 0.15,
+    "blendMode": "luminosity"
+  }
+}
