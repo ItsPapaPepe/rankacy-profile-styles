@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "badge": {
+    "enabled": true,
+    "iconUrl": "https://raw.githubusercontent.com/<USER>/<REPO>/main/assets/p-badge.png",
+    "label": "Pepe"
+  },
+  "theme": {
+    "borderColor": "#00ff66",
+    "borderGlow": true,
+    "textColor": "#E9FFF2",
+    "mutedTextColor": "#9FB8A7"
+  },
+  "background": {
+    "enabled": true,
+    "imageUrl": "https://example.com/your-background.webp",
+    "opacity": 0.18,
+    "blendMode": "luminosity"
+  }
+}
